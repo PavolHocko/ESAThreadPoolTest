@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESAThreadPoolTest", "ESAThreadPoolTest\ESAThreadPoolTest.csproj", "{0AAF6999-AB47-4F58-B553-7E25CE1C2BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AAF6999-AB47-4F58-B553-7E25CE1C2BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AAF6999-AB47-4F58-B553-7E25CE1C2BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AAF6999-AB47-4F58-B553-7E25CE1C2BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AAF6999-AB47-4F58-B553-7E25CE1C2BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C0C2D8A-1CC1-454D-B395-FC24A08E9189}
+	EndGlobalSection
+EndGlobal
